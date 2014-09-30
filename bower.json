@@ -6,15 +6,32 @@
   "moduleType": [
     "globals"
   ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/changalberto/jquery.breakpoint.git"
+  },
   "dependencies": {
     "window.breakpoint.js": "~> 0.0.1",
     "jquery": "~1.11.0"
   },
   "keywords": [
-    "jquery.breakpoint"
+    "jquery",
+    "jquery.breakpoint",
+    "breakpoint"
   ],
   "authors": [
     "Alberto Chang"
   ],
-  "license": "MIT"
+  "ignore": [
+    "*.md",
+    ".json",
+    "*.html",
+    "LICENCE",
+    "bower.json"
+  ],
+  "license": {
+    "type": "MIT",
+    "url": "https://github.com/changalberto/jquery.breakpoint/blob/master/LICENSE"
+  },
+  "homepage": "https://github.com/changalberto/jquery.breakpoint"
 }

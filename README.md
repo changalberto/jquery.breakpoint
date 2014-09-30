@@ -3,6 +3,10 @@ jquery.breakpoint
 
 Custom jQuery element breakpoint event.
 
+Dependency
+----------
+[window.breakpoint.js](https://github.com/changalberto/window.breakpoint.js)
+
 Usage
 -----
 ```javascript

@@ -1,0 +1,20 @@
+{
+  "name": "jquery.breakpoint",
+  "version": "0.0.1",
+  "description": "Custom jQuery resize:breakpoint event. Bind event elements and fire function at specified breakpoints.",
+  "main": "jquery.breakpoint.js",
+  "moduleType": [
+    "globals"
+  ],
+  "dependencies": {
+    "window.breakpoint.js": "~> 0.0.1",
+    "jquery": "~1.11.0"
+  },
+  "keywords": [
+    "jquery.breakpoint"
+  ],
+  "authors": [
+    "Alberto Chang"
+  ],
+  "license": "MIT"
+}
